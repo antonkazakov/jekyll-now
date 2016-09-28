@@ -5,6 +5,3 @@ permalink: /about/
 ---
 
 Creating fast and  stable android apps. 
-
-### Contact me
-

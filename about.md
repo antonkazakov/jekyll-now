@@ -5,4 +5,5 @@ permalink: /about/
 ---
 
 Creating fast and  stable android apps. 
-<img src="art/el3.png" width="320" />
+![Image description](/art/el3.png)
+<img src="/art/el3.png" width="320" />

@@ -12,6 +12,7 @@ Developing two versions of application from scratch. Begining from design and up
 * PhotoView
 * Realm 1.8.0
 * Material Dialogs
+
 ### Analytics, crash reporting etc:
 * HockeyApp
 * Crashlytics
@@ -33,6 +34,7 @@ Everything.
 * ButterKnife 8.4.0
 * Picasso 4.x
 * Realm 1.8.0
+
 ### Analytics, crash reporting etc:
 * Crashlytics
 * One Signal
@@ -42,6 +44,6 @@ Everything.
 
 My apps for YMC2016 final challenge. These apps are open so if you want you can checkout the source.
 
-###[GitHub](https://github.com/antonkazakov/YMC2016)
+### [GitHub](https://github.com/antonkazakov/YMC2016)
 ![Image description](/images/FotorCreated-1.jpg)
 

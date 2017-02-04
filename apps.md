@@ -1,5 +1,4 @@
 # Sapron 
-
 Application developed when I was working at [Uvee](http://uvee.ru). Service for renting building stuff like buildozers and etc.
 
 ### What I did: 
@@ -13,19 +12,16 @@ Developing two versions of application from scratch. Begining from design and up
 * PhotoView
 * Realm 1.8.0
 * Material Dialogs
-
 ### Analytics, crash reporting etc:
 * HockeyApp
 * Crashlytics
 * One Signal
 
 ### [Google Play](https://play.google.com/store/apps/details?id=uvee.sapron)
-
 ![Image description](/images/FotorCreated.jpg)
 
 
 # Electronic 
-
 Handbook for people who works with radiotechnic/electrical equipment. Top 1 Google Play in Russian Handbooks category for 6 months. I've created 2 versions pro/free. Nothing special, just fast and stable app full of great articles. 
 
 ### What I did: 
@@ -37,7 +33,15 @@ Everything.
 * ButterKnife 8.4.0
 * Picasso 4.x
 * Realm 1.8.0
-
 ### Analytics, crash reporting etc:
 * Crashlytics
 * One Signal
+
+
+# Yandex Mobile Challenge 2016 
+
+My apps for YMC2016 final challenge. These apps are open so if you want you can checkout the source.
+
+###[GitHub](https://github.com/antonkazakov/YMC2016)
+![Image description](/images/FotorCreated-1.jpg)
+

@@ -40,6 +40,7 @@ Created 2 versions(with add/ads free) of application, translation to 2 languages
 * One Signal
 
 ### [Google Play(Free)](https://play.google.com/store/apps/details?id=com.official.electronics.lite)
+
 ### [Google Play(Pro)](https://play.google.com/store/apps/details?id=com.official.electronics)
 ![Image description](/images/FotorCreated-2.jpg)
 

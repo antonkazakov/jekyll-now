@@ -19,7 +19,7 @@ Developing two versions of application from scratch. Begining from design and up
 * Crashlytics
 * One Signal
 
-### [Google Play] (https://play.google.com/store/apps/details?id=uvee.sapron)
+### [Google Play](https://play.google.com/store/apps/details?id=uvee.sapron)
 
 ![Image description](/images/FotorCreated.jpg)
 

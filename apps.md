@@ -26,7 +26,7 @@ Developing two versions of application from scratch. Begining from design and up
 Handbook for people who works with radiotechnic/electrical equipment. Top 1 Google Play in Russian Handbooks category for 6 months. I've created 2 versions pro/free. Nothing special, just fast and stable app full of great articles. 
 
 ### What I did: 
-Everything.
+Created 2 versions(with add/ads free) of application, translation to 2 languages and help with moving app to #1 in Google Play.
 
 ### Core libraries:
 * RxJava/RxAndroid 1.x
@@ -38,6 +38,10 @@ Everything.
 ### Analytics, crash reporting etc:
 * Crashlytics
 * One Signal
+
+### [Google Play(Free)](https://play.google.com/store/apps/details?id=com.official.electronics.lite)
+### [Google Play(Pro)](https://play.google.com/store/apps/details?id=com.official.electronics)
+![Image description](/images/FotorCreated-2.jpg)
 
 
 # Yandex Mobile Challenge 2016 
